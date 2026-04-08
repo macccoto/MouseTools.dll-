@@ -1,0 +1,11 @@
+# MSVC ビルド生成物
+*.obj
+*.dll
+*.lib
+*.exp
+*.ilk
+*.pdb
+
+# Visual Studio
+.vs/
+*.user
